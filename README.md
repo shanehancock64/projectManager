@@ -1,0 +1,2 @@
+# projectManager
+MERNG Stack 
